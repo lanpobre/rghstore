@@ -1,21 +1,9 @@
 [
   {
-    "name": "Teste",
-    "title": "App Exemplo 1",
-    "cover": "https://raw.githubusercontent.com/lanpobre/rghstore/main/covers/ar.png",
-    "download": "https://raw.githubusercontent.com/lanpobre/rghstore/main/apps/ar/default.xex"
-  },
-  {
-  "name": "MeuApp",
-  "title": "Meu App",
-  "cover": "https://raw.githubusercontent.com/lanpobre/rghstore/main/covers/ar.png",
-  "download": "https://raw.githubusercontent.com/lanpobre/rghstore/main/apps/ar/tt.zip"
-},
-  {
   "name": "Aurora 0.7b.2",
   "title": "Aurora 0.7b.2",
   "cover": "https://phoenix.xboxunity.net/images/aurora.logo.png",
   "download": "https://phoenix.xboxunity.net/downloads/Aurora%200.7b.2%20-%20Release%20Package.rar"
-}
+  }
 ]
 
