@@ -12,63 +12,39 @@
     "download": "https://digiex.net/attachments/dash_launch_v3-21-zip.18321/"
   },
   {
-    "name": "XeXMenu 1.2",
-    "title": "XeXMenu 1.2",
-    "cover": "https://consolecrunch.com/wp-content/uploads/2011/06/xexmenu.png",
-    "download": "https://www.mediafire.com/file/xxxxx/XeXMenu_1.2.rar"
-  },
-  {
     "name": "XM360",
     "title": "XM360 DLC Manager",
-    "cover": "https://consolecrunch.com/wp-content/uploads/2011/03/xm360.png",
-    "download": "https://www.mediafire.com/file/xxxxx/XM360.rar"
+    "cover": "https://i.ytimg.com/vi/kcvTthgT4Vk/maxresdefault.jpg",
+    "download": "https://digiex.net/attachments/xm360v2-0d-zip.6391/"
   },
   {
     "name": "NXE2GOD",
     "title": "NXE2GOD",
-    "cover": "https://consolecrunch.com/wp-content/uploads/2011/01/nxe2god.png",
-    "download": "https://www.mediafire.com/file/xxxxx/NXE2GOD.rar"
-  },
-  {
-    "name": "ISO2GOD",
-    "title": "ISO2GOD",
-    "cover": "https://digiex.net/attachments/iso2god-png.18190/",
-    "download": "https://www.mediafire.com/file/xxxxx/ISO2GOD.rar"
+    "cover": "https://digiex.net/attachments/nxe2god-install-game-jpg.15182/",
+    "download": "https://digiex.net/attachments/nxe2god-v1-1-xex-zip.5770/"
   },
   {
     "name": "RetroArch 360",
     "title": "RetroArch Xbox 360",
-    "cover": "https://www.retroarch.com/images/logo.png",
-    "download": "https://www.mediafire.com/file/xxxxx/RetroArch360.rar"
+    "cover": "https://t2.tudocdn.net/133647?w=1920&h=1440",
+    "download": "https://download.digiex.net/Consoles/Xbox360/Jtag/RetroArch.360.v1.0.0.2.zip"
   },
   {
     "name": "SNES360",
     "title": "SNES360 Emulator",
-    "cover": "https://consolecrunch.com/wp-content/uploads/2011/02/snes360.png",
-    "download": "https://www.mediafire.com/file/xxxxx/SNES360.rar"
+    "cover": "https://digiex.net/attachments/snes360rombrowser-jpg.3529/",
+    "download": "https://download.digiex.net/Consoles/Xbox360/Jtag/SNES360betaV0.21.rar"
   },
   {
     "name": "FCE360",
     "title": "FCE360 NES Emulator",
-    "cover": "https://consolecrunch.com/wp-content/uploads/2011/02/fce360.png",
-    "download": "https://www.mediafire.com/file/xxxxx/FCE360.rar"
-  },
-  {
-    "name": "Genesis Plus 360",
-    "title": "Genesis Plus 360",
-    "cover": "https://consolecrunch.com/wp-content/uploads/2011/02/genesis360.png",
-    "download": "https://www.mediafire.com/file/xxxxx/Genesis360.rar"
-  },
-  {
-    "name": "Mupen64-360",
-    "title": "Mupen64 Nintendo 64 Emulator",
-    "cover": "https://consolecrunch.com/wp-content/uploads/2011/02/mupen64.png",
-    "download": "https://www.mediafire.com/file/xxxxx/Mupen64-360.rar"
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-wNMlnu305dsqM1Ga4Dfa4NzmneU_rJdP0A&s",
+    "download": "https://digiex.net/attachments/fce360-v0-6-rar.6464/"
   },
   {
     "name": "Simple 360 NAND Flasher",
     "title": "Simple 360 NAND Flasher",
-    "cover": "https://consolecrunch.com/wp-content/uploads/2011/05/nandflasher.png",
-    "download": "https://www.mediafire.com/file/xxxxx/NandFlasher.rar"
+    "cover": "https://users.digiex.net/insanenutter/guides/360freeboot13604/flash-7.jpg",
+    "download": "https://digiex.net/attachments/nand-flasher-360-for-xbox-360-v1-2-0-rar.7539/"
   }
 ]
