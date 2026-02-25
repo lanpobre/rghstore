@@ -96,5 +96,33 @@
     "cover": "https://rghstoreftp.rf.gd/rgh/img/xmplayer.jpg",
     "download": "https://github.com/lanpobre/rghstore/releases/download/v1/xmplayer-0.0.4.zip",
     "type": "app"
+  },
+  {
+    "name": "PROTO",
+    "title": "PROTO",
+    "cover": "https://www.freestealth.com/favicon.ico",
+    "download": "https://www.freestealth.com/ProtoV2.4.zip",
+    "type": "plugin"
+  },
+  {
+    "name": "xbGuard",
+    "title": "xbGuard",
+    "cover": "https://xbl.app/images/header.png",
+    "download": "https://xbl.app/xbGuard.zip?download=nocache",
+    "type": "plugin"
+  },
+  {
+    "name": "ConnectX",
+    "title": "ConnectX",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9r4iX3IPIkBjyt_M302tD_x4Coa597v6peA&s",
+    "download": "https://github.com/lanpobre/rghstore/raw/refs/heads/main/apps/connectx.zip",
+    "type": "plugin"
+  },
+  {
+    "name": "UsbdSecPatch",
+    "title": "UsbdSecPatch",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZCeC-5z_hU42tUulP6ihSwUjvPm21uvmfBw&s",
+    "download": "https://github.com/lanpobre/rghstore/raw/refs/heads/main/apps/UsbdSecPatch.zip",
+    "type": "plugin"
   }
 ]
