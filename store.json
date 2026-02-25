@@ -3,84 +3,98 @@
     "name": "Aurora 0.7b.2",
     "title": "Aurora 0.7b.2",
     "cover": "https://phoenix.xboxunity.net/images/aurora.logo.png",
-    "download": "https://phoenix.xboxunity.net/downloads/Aurora%200.7b.2%20-%20Release%20Package.rar"
+    "download": "https://phoenix.xboxunity.net/downloads/Aurora%200.7b.2%20-%20Release%20Package.rar",
+    "type": "app"
   },
   {
     "name": "Dash Launch 3.21",
     "title": "Dash Launch 3.21",
     "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidxazhDuTzl5nOlfAsmMYKhxc-tdvlslZrKOWAMJ8AdXyNb9jwf7YEXC4UKNRfzM7jcH_KN53w1dVx2cvEuL_LkJVcUxotPvOyczPAgGi-wPacORDQlATcp_inbna9L2BPPmSkBnm7LvRd/w1200-h630-p-k-no-nu/DashLaunch.png",
-    "download": "https://github.com/lanpobre/rghstore/releases/download/v1/dash_launch_v3.21.zip"
+    "download": "https://github.com/lanpobre/rghstore/releases/download/v1/dash_launch_v3.21.zip",
+    "type": "app"
   },
   {
     "name": "XM360",
     "title": "XM360 DLC Manager",
     "cover": "https://i.ytimg.com/vi/kcvTthgT4Vk/maxresdefault.jpg",
-    "download": "https://github.com/lanpobre/rghstore/releases/download/v1/xm360v2.0d.zip"
+    "download": "https://github.com/lanpobre/rghstore/releases/download/v1/xm360v2.0d.zip",
+    "type": "app"
   },
   {
     "name": "NXE2GOD",
     "title": "NXE2GOD",
     "cover": "https://digiex.net/attachments/nxe2god-install-game-jpg.15182/",
-    "download": "https://github.com/lanpobre/rghstore/releases/download/v1/NXE2GOD-v1.1-XEX.zip"
+    "download": "https://github.com/lanpobre/rghstore/releases/download/v1/NXE2GOD-v1.1-XEX.zip",
+    "type": "app"
   },
   {
     "name": "RetroArch 360",
     "title": "RetroArch Xbox 360",
     "cover": "https://t2.tudocdn.net/133647?w=1920&h=1440",
-    "download": "https://download.digiex.net/Consoles/Xbox360/Jtag/RetroArch.360.v1.0.0.2.zip"
+    "download": "https://download.digiex.net/Consoles/Xbox360/Jtag/RetroArch.360.v1.0.0.2.zip",
+    "type": "app"
   },
   {
     "name": "SNES360",
     "title": "SNES360 Emulator",
     "cover": "https://digiex.net/attachments/snes360rombrowser-jpg.3529/",
-    "download": "https://github.com/lanpobre/rghstore/releases/download/v1/SNES360betaV0.21.zip"
+    "download": "https://github.com/lanpobre/rghstore/releases/download/v1/SNES360betaV0.21.zip",
+    "type": "app"
   },
   {
     "name": "FCE360",
     "title": "FCE360 NES Emulator",
     "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-wNMlnu305dsqM1Ga4Dfa4NzmneU_rJdP0A&s",
-    "download": "https://github.com/lanpobre/rghstore/releases/download/v1/FCE360.V0.6.zip"
+    "download": "https://github.com/lanpobre/rghstore/releases/download/v1/FCE360.V0.6.zip",
+    "type": "app"
   },
   {
     "name": "Simple 360 NAND Flasher",
     "title": "Simple 360 NAND Flasher",
     "cover": "https://users.digiex.net/insanenutter/guides/360freeboot13604/flash-7.jpg",
-    "download": "https://github.com/lanpobre/rghstore/releases/download/v1/NAND.Flasher.360.for.XBOX.360.v1.2.0.zip"
+    "download": "https://github.com/lanpobre/rghstore/releases/download/v1/NAND.Flasher.360.for.XBOX.360.v1.2.0.zip",
+    "type": "app"
   },
   {
     "name": "Amiga360 1.0",
     "title": "Amiga360 1.0",
     "cover": "https://rghstoreftp.rf.gd/rgh/img/amiga.jpg",
-    "download": "https://github.com/lanpobre/rghstore/releases/download/v1/Amiga360-V1.0.zip"
+    "download": "https://github.com/lanpobre/rghstore/releases/download/v1/Amiga360-V1.0.zip",
+    "type": "app"
   },
   {
     "name": "FFplay Xbox360",
     "title": "FFplay Xbox360",
     "cover": "https://rghstoreftp.rf.gd/rgh/img/ffplay.jpg",
-    "download": "https://github.com/lanpobre/rghstore/releases/download/v1/FFPlay.zip"
+    "download": "https://github.com/lanpobre/rghstore/releases/download/v1/FFPlay.zip",
+    "type": "app"
   },
   {
     "name": "MAME 0.72",
     "title": "MAME 0.72",
     "cover": "https://rghstoreftp.rf.gd/rgh/img/mame.jpg",
-    "download": "https://download.digiex.net/Consoles/Xbox360/Jtag/MAME0.72-V1.0.rar"
+    "download": "https://download.digiex.net/Consoles/Xbox360/Jtag/MAME0.72-V1.0.rar",
+    "type": "app"
   },
   {
     "name": "PPSSPP - Xbox 360",
     "title": "PPSSPP - Xbox 360",
     "cover": "https://rghstoreftp.rf.gd/rgh/img/psp.jpg",
-    "download": "https://digiex.net/attachments/ppsspp_0-91-alpha-rar.13166/"
+    "download": "https://digiex.net/attachments/ppsspp_0-91-alpha-rar.13166/",
+    "type": "app"
   },
   {
     "name": "Sega Genesis Plus",
     "title": "Sega Genesis Plus",
     "cover": "https://rghstoreftp.rf.gd/rgh/img/sega%20genesis.jpg",
-    "download": "https://digiex.net/attachments/sega_genesis_plus_v0-98-xenon-rar.7883/"
+    "download": "https://digiex.net/attachments/sega_genesis_plus_v0-98-xenon-rar.7883/",
+    "type": "app"
   },
   {
     "name": "XMPlayer",
     "title": "XMPlayer - MPlayer Port for Xbox 360",
     "cover": "https://rghstoreftp.rf.gd/rgh/img/xmplayer.jpg",
-    "download": "https://github.com/lanpobre/rghstore/releases/download/v1/xmplayer-0.0.4.zip"
+    "download": "https://github.com/lanpobre/rghstore/releases/download/v1/xmplayer-0.0.4.zip",
+    "type": "app"
   }
 ]
